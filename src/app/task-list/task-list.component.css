@@ -1,0 +1,9 @@
+  .is-done {
+    text-decoration: line-through
+  }
+  .even {
+    background-color: pink
+  }
+  .odd{
+    background-color: grey
+  }
